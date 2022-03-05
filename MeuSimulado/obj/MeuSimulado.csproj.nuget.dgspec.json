@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MeuSimulado\\MeuSimulado\\MeuSimulado.csproj": {}
+    "C:\\WorkSpace\\meusimulado\\MeuSimulado\\MeuSimulado.csproj": {}
   },
   "projects": {
-    "C:\\MeuSimulado\\MeuSimulado\\MeuSimulado.csproj": {
+    "C:\\WorkSpace\\meusimulado\\MeuSimulado\\MeuSimulado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MeuSimulado\\MeuSimulado\\MeuSimulado.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\meusimulado\\MeuSimulado\\MeuSimulado.csproj",
         "projectName": "MeuSimulado",
-        "projectPath": "C:\\MeuSimulado\\MeuSimulado\\MeuSimulado.csproj",
+        "projectPath": "C:\\WorkSpace\\meusimulado\\MeuSimulado\\MeuSimulado.csproj",
         "packagesPath": "C:\\Users\\cs340942\\.nuget\\packages\\",
-        "outputPath": "C:\\MeuSimulado\\MeuSimulado\\obj\\",
+        "outputPath": "C:\\WorkSpace\\meusimulado\\MeuSimulado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cs340942\\AppData\\Roaming\\NuGet\\NuGet.Config",
